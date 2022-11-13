@@ -1,5 +1,6 @@
-# second-screen-via-gdb
+# extendto
 This tool lets you to create a virtual second screen display using your any device.
+**BETA! Not finished yet.**
 
 ### Usage
 1. Connect your device to your computer via USB.
